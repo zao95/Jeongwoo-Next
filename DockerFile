@@ -1,0 +1,9 @@
+FROM node
+WORKDIR /usr/src/app
+COPY package*.json ./
+RUN rm -f ./package-lock.json
+RUN rm -r -f ./node_modules
+RUN npm i -y
+COPY ./ ./
+EXPOSE 3000
+CMD ["npm","run","dev"]
