@@ -8,7 +8,7 @@ This is the React part of the service composed of MERN stack.
 
     ```
     docker build -t next -f ./DockerFile .
-    docker run --name -d -p 3000:3000 next
+    docker run --name next -d -p 3000:3000 next
     ```
 
 ## Environment
