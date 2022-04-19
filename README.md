@@ -2,9 +2,13 @@
 
 This is the React part of the service composed of MERN stack.
 
-## 🚀Quick Overview
+## ✨Feature
 
 📌 This service was developed using [dockers](https://www.docker.com/).
+
+## 🚀Quick Overview
+
+🚢 Build docker image and run instance.
 
     ```
     docker build -t next -f ./DockerFile .
