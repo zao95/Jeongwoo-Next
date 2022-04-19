@@ -4,7 +4,7 @@ This is the React part of the service composed of MERN stack.
 
 ## ✨Feature
 
-📌 This service was developed using [dockers](https://www.docker.com/).
+📌 This service was developed to be serviced through [dockers](https://www.docker.com/).
 
 ## 🚀Quick Overview
 
