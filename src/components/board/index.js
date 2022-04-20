@@ -1,7 +1,7 @@
 import tableStyles from '../../pages/common/styles/table.module.css'
 
 // 공공데이터포털 참고데이터
-// https://data.kma.go.kr/data/air/selectAmosRltmList.do?pgmNo=575
+// https://www.data.go.kr/data/15089266/fileData.do
 
 const Board = () => {
     const data = [
@@ -19,7 +19,7 @@ const Board = () => {
             <thead>
                 <tr>
                     <th colSpan={4}>
-                        <h2>기상청 항공기상통계자료</h2>
+                        <h2>서울특별시 시간별 (초)미세먼지</h2>
                     </th>
                 </tr>
                 <tr>
