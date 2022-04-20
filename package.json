@@ -57,6 +57,7 @@
         "@mui/material": "5.6.1",
         "@types/lodash": "4.14.181",
         "@types/node": "17.0.24",
+        "@types/react": "^18.0.5",
         "eslint": "8.2.0",
         "eslint-config-airbnb": "19.0.4",
         "eslint-config-airbnb-base": "15.0.0",
