@@ -1,6 +1,6 @@
 import React from "react";
-
-export default function Footer(){
+import styles from '@/styles/Footer.module.css'
+export function Footer(){
     return (<footer>
                 <hr/>
                 <div data-attribute-id="fnb" data-fnb-kind="investment">
